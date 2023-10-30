@@ -1,0 +1,123 @@
+[
+    {
+      "id": 1,
+      "name": "Margherita",
+      "price": 10,
+      "description": "Tomato sauce, Mozzarella, Basil leaves",
+      "images": ["product1-image1.jpg", "product1-image2.jpg", "product1-image3.jpg"]
+    },
+    
+    {
+        "id": 2,
+        "name": "Mari e monte",
+        "price": 12,
+
+        "description": "Tomatoes, Frutti di mare, Champignons",
+        "images": ["product1-image3.jpg", "product2-image2.jpg", "product2-image3.jpg"]
+      },
+      {
+        "id": 3,
+        "name": "Marinara",
+        "price": 15,
+      
+        "description": "Marinara sauce, Garlic, Olive oil",
+        "images": ["product3-image1.jpg", "product3-image2.jpg", "product3-image3.jpg"]
+      },
+      {
+        "id": 4,
+        "name": "Mazza",
+        "price": 13,  
+      
+        "description": "Marinara sauce, Garlic, Olive oil",
+        "images": ["product2-image1.jpg", "product1-image1.jpg", "product1-image2.jpg"]
+      },
+      {
+        "id": 5,
+        "name": "Etna",
+        "price": 18,
+      
+        "description": "Tomato sauce, Mozzarella, Anchovies",
+        "images": ["product3-image2.jpg", "product3-image1.jpg", "product1-image1.jpg"]
+      },
+      {
+        "id": 6,
+        "name": "Con cozze",
+        "price": 20,
+       
+        "description": "Mussels, Garlic, Olive oil, Parsley",
+        "images": ["product3-image3.jpg", "product1-image2.jpg", "product1-image3.jpg"]
+      },
+      {
+        "id": 7,
+        "name": "Cipolla",
+        "price": 20,
+        "description": "Tomato sauce, Mozzarella, Onions",
+        "images": ["product2-image1.jpg", "product1-image1.jpg", "product3-image1.jpg"]
+      },
+      {
+        "id": 8,
+        "name": "Carciofi",
+        "price": 13,
+        "description": "Tomato sauce, Mozzarella, Artichokes",
+        "images": ["product2-image2.jpg", "product1-image3.jpg", "product3-image2.jpg"]
+      },
+      {
+        "id": 9,
+        "name": "Vegetariana",
+        "price": 17,
+        "description": "Tomato sauce, Mozzarella, Vegetables",
+        "images": ["product3-image3.jpg", "product1-image3.jpg", "product3-image1.jpg"]
+      },
+      {
+        "id": 10,
+        "name": "Tonno ",
+        "price": 16,
+        "description": "Tomato sauce, Mozzarella, Tuna",
+        "images": ["product3-image2.jpg", "product1-image2.jpg", "product2-image2.jpg"]
+      },
+
+      {
+        "id": 11,
+        "name": "Spinaci",
+        "price": 10,
+        "description": "Tomato sauce, Mozzarella, Spinach, Salt",
+        "images": ["product3-image1.jpg", "product1-image3.jpg", "product1-image2.jpg"]
+      },
+      {
+        "id": 12,
+        "name": "Salame",
+        "price": 14,
+        "description": "Tomato sauce, Mozzarella, Italian salami",
+        "images": ["product2-image1.jpg", "product3-image2.jpg", "product1-image3.jpg"]
+      },
+
+      {
+        "id": 13,
+        "name": "Regina",
+        "price": 25,
+        "description": "Tomato sauce, Mozzarella, Ham",
+        "images": ["product1-image1.jpg", "product1-image2.jpg", "product2-image3.jpg"]
+      },
+      {
+        "id": 14,
+        "name": "Pugliese",
+        "price": 24,
+        "description": "Tomato sauce, Mozzarella and Onions",
+        "images": ["product2-image1.jpg", "product2-image3.jpg", "product3-image3.jpg"]
+      },
+      {
+        "id": 15,
+        "name": "Piccantino",
+        "price": 19,
+        "description": "Tomato sauce, Mozzarella",
+        "images": ["product3-image1.jpg", "product2-image2.jpg", "product1-image3.jpg"]
+      },
+      {
+        "id": 16,
+        "name": "Peperoni",
+        "price": 15,
+        "description": "Tomato sauce, Mozzarella, Chili peppers",
+        "images": ["product1-image1.jpg", "product1-image3.jpg", "product2-image3.jpg"]
+      }
+  ]
+  
