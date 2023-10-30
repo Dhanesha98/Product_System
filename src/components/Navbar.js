@@ -1,10 +1,10 @@
 import React from 'react';
-import Logo from "../assets/pizzaLogo.png";
+import Logo from "../assets/logo.jpg";
 
 function Navbar() {
   return (
   <div className='header'>
-     <nav className="navbar navbar-expand-lg">
+     <nav className="navbar navbar-expand-lg fixed-top">
       <div className="container-fluid">
         <div className="collapse navbar-collapse justify-content-end" id="navbarNav">
         <div className='logo'>
@@ -21,7 +21,7 @@ function Navbar() {
               <a class="nav-link" href="#">Home</a>
             </li>
             <li class="nav-item  black-text">
-              <a class="nav-link" href="#" >Menu</a>
+              <a class="nav-link" href="#" >Products</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="#">About</a>

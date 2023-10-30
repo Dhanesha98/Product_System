@@ -11,7 +11,7 @@ const ProductList = ({ products }) => {
     <div>
     <Navbar />
     <div className='menu'>
-      <h1>Our Menu</h1>
+      <h1>Our Products</h1>
     </div>
    
     <div className="product-list">

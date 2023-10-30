@@ -7,7 +7,7 @@ const Footer = () => {
      <div className='footer'>
   
           <div class="footer-text" >
-            <p>© 2023 Your Company Name</p> 
+            <p>© 2023 Pizza</p> 
            </div>
         </div>
       
