@@ -70,9 +70,8 @@ body {
   border: 0.5px solid #7e8187; 
   border-radius: 5px; 
   box-shadow: 0 15px 15px rgba(53, 60, 71, 0.2);
-  margin-bottom:35px ;
   background-color: rgba(123, 125, 129, 0.51);
-
+  margin: 0 20px 35px 35px;
 }
 
 .product p{
@@ -102,9 +101,8 @@ body {
 .product-list {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
-  grid-gap: 2px; 
-  margin-top: 10px;
-  margin-left: 40px;
+  grid-gap: 0.5px; 
+  margin-top: 5px;
   align-content: center;
   margin-bottom: 2px;
  
