@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState} from 'react';
 import Product from '../pages/Product';
 import Navbar from './Navbar';
 import Footer from './Footer';
@@ -9,15 +9,13 @@ const ProductList = ({ products }) => {
   const [hasMore, setHasMore] = useState(true);
 
   const loadMore = () => {
-    // Delay loading of the 3rd row and subsequent rows by 1 second
-    setTimeout(() => {
-      const nextBatch = products.slice(items.length, items.length + 8); // Change 8 to the desired batch size
-      if (nextBatch.length === 0) {
-        setHasMore(false); // No more items to load
-      } else {
-        setItems([...items, ...nextBatch]);
-      }
-    }, 1000);
+    // Simulate loading more items, e.g., by adding the next batch of products
+    const nextBatch = products.slice(items.length, items.length + 8); // Change 8 to the desired batch size
+    if (nextBatch.length === 0) {
+      setHasMore(false); // No more items to load
+    } else {
+      setItems([...items, ...nextBatch]);
+    }
   };
 
   return (
