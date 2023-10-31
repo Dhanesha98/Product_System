@@ -7,7 +7,7 @@ const Footer = () => {
      <div className='footer'>
   
           <div class="footer-text" >
-            <p>© 2023 Pizza</p> 
+            <p>© 2023 Clothes</p> 
            </div>
         </div>
       
